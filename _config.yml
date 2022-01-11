@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 email:              realspanishnews@gmail.com
-twitter:            username
-facebook:           https://www.facebook.com/Real-Spanish-News-105334342044084
-github-url:         https://realspanishnews.github.io/
+twitter:            realspanishnews
+facebook:           Real-Spanish-News-105334342044084
+#github-url:         
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          https://instagram.com/realspanishnews
+instagram:          realspanishnews
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
